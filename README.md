@@ -86,8 +86,8 @@ This project was completed as part of a final assignment for a Text Analytics cl
 ## **Contact**
 
 For questions or feedback, feel free to reach out:
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [omniscienthorizon@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/coachkshitijagarwal]
 
 ---
 
